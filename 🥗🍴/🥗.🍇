@@ -22,23 +22,24 @@
 
   ❗️ 🍏 🍇
     🐻ingredients 🔤🍏 green apple🔤❗️
+    sweet ⬅️➕ 1
     sour ⬅️➕ 2
   🍉
 
   ❗️ 🍐 🍇
     🐻ingredients 🔤🍐 pear🔤❗️
-    sweet ⬅️➕ 1
+    sweet ⬅️➕ 2
   🍉
 
   ❗️ 🍊 🍇
     🐻ingredients 🔤🍊 orange🔤❗️
     sweet ⬅️➕ 1
-    sour ⬅️➕ 1
+    sour ⬅️➕ 2
   🍉
 
   ❗️ 🍋 🍇
     🐻ingredients 🔤🍋 lemon🔤❗️
-    sour ⬅️➕ 3
+    sour ⬅️➕ 4
   🍉
 
   ❗️ 🍌 🍇
@@ -48,7 +49,7 @@
 
   ❗️ 🍍 🍇
     🐻ingredients 🔤🍍 pineapple🔤❗️
-    sweet ⬅️➕ 2
+    sweet ⬅️➕ 1
     sour ⬅️➕ 2
   🍉
 
@@ -65,12 +66,13 @@
   ❗️ 🍒 🍇
     🐻ingredients 🔤🍒 cherry🔤❗️
     sweet ⬅️➕ 1
+    sour ⬅️➕ 1
   🍉
 
   ❗️ 🍓 🍇
     🐻ingredients 🔤🍓 strawberry🔤❗️
     sweet ⬅️➕ 1
-    sour ⬅️➕ 1
+    sour ⬅️➕ 2
   🍉
 
   ❗️ 🥝 🍇
@@ -112,25 +114,67 @@
   🍉
 🍉
 
+
 🏁 🍇
   🆕🥗❗️ ➡️ salad
-  🍎salad❗️
-  🍏salad❗️
-  🍐salad❗️
-  🍊salad❗️
-  🍋salad❗️
-  🍌salad❗️
-  🍍salad❗️
-  🥭salad❗️
-  🍑salad❗️
-  🍒salad❗️
-  🍓salad❗️
-  🥝salad❗️
-  🍈salad❗️
-  🥥salad❗️
+
+  💭 The complete fruit catalog.
+  🍿 🔤🍎🔤 🔤🍏🔤 🔤🍐🔤 🔤🍊🔤 🔤🍋🔤
+     🔤🍌🔤 🔤🍍🔤 🔤🥭🔤 🔤🍑🔤 🔤🍒🔤
+     🔤🍓🔤 🔤🥝🔤 🔤🍈🔤 🔤🥥🔤 🔤🍅🔤 🍆 ➡️ 🖍🆕pantry
+
+  💭 Draw eight fruits, with replacement.
+  🔂 draw 🆕⏩ 0 8❗️ 🍇
+    🐹pantry❗️
+    🐽pantry 0❗️ ➡️ fruit
+
+    ↪️ fruit 🙌 🔤🍎🔤 🍇
+      🍎salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🍏🔤 🍇
+      🍏salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🍐🔤 🍇
+      🍐salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🍊🔤 🍇
+      🍊salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🍋🔤 🍇
+      🍋salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🍌🔤 🍇
+      🍌salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🍍🔤 🍇
+      🍍salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🥭🔤 🍇
+      🥭salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🍑🔤 🍇
+      🍑salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🍒🔤 🍇
+      🍒salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🍓🔤 🍇
+      🍓salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🥝🔤 🍇
+      🥝salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🍈🔤 🍇
+      🍈salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🥥🔤 🍇
+      🥥salad❗️
+    🍉
+    🙅↪️ fruit 🙌 🔤🍅🔤 🍇
+      🍅salad❗️
+    🍉
+  🍉
 
   🍴salad❗️
-  😀 🔤------ ENTER THE TECHNICALLY-A-FRUIT ------🔤❗️
-  🍅salad❗️
-  🍴salad❗️
 🍉
+
